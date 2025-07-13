@@ -1,6 +1,6 @@
 # 🍽️ Eat & Split – Fair Bills. Zero Awkwardness.
 
-![interface](./UI%20-%20eat-n-split.png)
+![interface](./eat-n-split.png)
 
 **Eat & Split** is a smart, simple web app that helps you split bills fairly with friends after eating out, partying, or hanging out.
 
@@ -44,9 +44,9 @@ So I built a solution: **Eat & Split**.
 
 ## 📸 Screenshots
 
-| Friends List             | Split Bill Panel                       |
-| ------------------------ | -------------------------------------- |
-| ![UI1](./FriendList.png) | ![UI2](./UI%20-%20eat-n-split.png.png) |
+| Friends List             | Split Bill Panel              |
+| ------------------------ | ----------------------------- |
+| ![UI1](./FriendList.png) | ![UI2](./eat-n-split.png.png) |
 
 ---
 
