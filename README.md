@@ -52,7 +52,7 @@ So I built a solution: **Eat & Split**.
 
 ## 🚀 Live Demo
 
-> 🔗 [https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)
+> 🔗 [https://split-d-bill.netlify.app](https://split-d-bill.netlify.app)
 
 ## 📂 Run Locally
 
