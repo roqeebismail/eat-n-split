@@ -27,7 +27,6 @@ So I built a solution: **Eat & Split**.
 ## 🛠️ Built With
 
 - **React.js** – Functional components and hooks
-- **Tailwind CSS** – Utility-first modern styling
 - **useState** – For dynamic state updates
 
 ---
